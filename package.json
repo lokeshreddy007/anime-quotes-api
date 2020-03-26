@@ -2,8 +2,9 @@
   "name": "anime-quotes-api",
   "version": "1.0.0",
   "description": "anime quote",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "lokesh reddy",
